@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <NationalParks>
 	<NationalPark>
 		<Name>Grand Canyon</Name>
@@ -118,7 +118,6 @@
 				<Zip>46304</Zip>
 				<NearestAirport>Chicago Midway International Airport</NearestAirport>
 			</Address>
-			<Rating>4.6</Rating>
 		</NationalPark>
 		<NationalPark>
 			<Name>Great Smoky Mountains</Name>
